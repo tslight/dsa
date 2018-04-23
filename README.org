@@ -1,0 +1,5 @@
+#+TITLE: DATA STRUCTURES AND ALGORITHMS
+#+AUTHOR: TOBY SLIGHT
+#+DATE: 06/06/17
+
+Revision repo for my Birkbeck uni exams.... God help me!
